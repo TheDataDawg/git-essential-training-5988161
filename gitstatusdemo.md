@@ -1,1 +1,1 @@
-created so that I can practice git status
+Making a merge conflict so I can see how to resolve.
