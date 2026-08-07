@@ -1,1 +1,1 @@
-created so that I can practice git status
+This is a new line, specifically for linkedin learning.
